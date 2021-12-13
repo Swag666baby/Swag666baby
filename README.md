@@ -2,6 +2,7 @@
 *Atualmente estou estudando Java, javascript e python*
 
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-Washington&layout=compact&langs_count=999&theme=aura">
 
 <!--
 ...
