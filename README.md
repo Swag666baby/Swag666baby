@@ -1,8 +1,7 @@
 ### *Hello, i'm swag baby🐽💎*
 *I'm currently studying  c++ and javascript*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swag666baby)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swag666baby&theme=radical)
 <p align="">
 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
