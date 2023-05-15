@@ -1,5 +1,5 @@
 ### *Hello, i'm swag baby🐽💎*
-*I'm currently studying  c++ e javascript*
+*I'm currently studying  c++ and javascript*
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swag666baby&layout=compact&theme=tokyonight">
 
