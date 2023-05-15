@@ -1,8 +1,7 @@
 ### *Hello, i'm swag baby🐽💎*
 *I'm currently studying  c++ and javascript*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swag666baby&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swag666baby)
 
 <p align="">
 
