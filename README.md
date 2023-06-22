@@ -1,6 +1,6 @@
-🦄 -*hello! my nick is Swag666baby, I'm currently studying nodejs and c++.*
+🦄 -*hello! my nick is Swag666baby, I'm currently studying nodejs and c.*
 
-💠 -*lately I'm interested in backend, apis, database and stuff like that.*
+💠 -*lately I'm interested in backend.*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swag666baby&layout=compact&theme=radical)
 
