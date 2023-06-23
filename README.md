@@ -41,19 +41,7 @@
 <a href = "mailto:swag666baby@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  </div>
- <details>
-<p align="center">
-  <a href="https://github.com/Swag666baby">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swag666baby&theme=transparent" />
-  </a>
-  <a href="https://github.com/Swag666baby">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swag666baby&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/Swag666baby">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Swag666baby&theme=transparent" />
-  </a>
-</p>
-</details>
+ 
 
 <p align="center">
   <a href="https://github.com/Swag666baby">
