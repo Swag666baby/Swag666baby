@@ -10,7 +10,7 @@
 
   ### main
   ![javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![typescript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=#0000CD)
+![typescript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
   ### learning 
@@ -44,7 +44,7 @@
   <a href="https://github.com/Swag666baby/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.npmjs.com/~swag666baby"><img
 src=https://camo.githubusercontent.com/b47580b7e8e0b4ce9bb718070140318f72d316a0c88e0dd53a5ac4b0bdfc755e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465></a>
-![discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=#1E90FF)
+![discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)
 
 <details>
 <p align="center">
