@@ -10,7 +10,7 @@
 
   ### main
   ![javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![typescript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=#0000CD)
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
   ### learning 
