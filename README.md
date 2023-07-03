@@ -21,7 +21,6 @@
 ## frameworks 
 ![lodash](https://img.shields.io/badge/Lodash-black?style=for-the-badge&logo=lodash&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![net](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## technologies 
 ![nodejs](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=white)
