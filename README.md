@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swag666baby&hide_border=true&card_width=338&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swag666baby&layout=compact&theme=transparent" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Swag666baby&theme=transparent" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swag666baby&theme=transparent" />
 </p>
