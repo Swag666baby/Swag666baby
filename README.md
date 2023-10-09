@@ -4,6 +4,16 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Swag666baby&theme=transparent" />
 </p>
 
+<details>
+  I am currently developing:
+    • nexa, a robot with hundreds of commands - typescript
+    • task manager, self-explanatory, it will record your tasks with day, time, location, a description and of course, a title - typescript
+    • sleeper-db, a database manager, like mongoose, but local - typescript
+
+  
+  
+</details>
+
 ## Technologies Badges
 
 <div>    
