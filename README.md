@@ -16,20 +16,7 @@
 </details>
 
 ## Technologies Badges
-
-<div>    
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />
- <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="25"/>
- <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" height="25"/>
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />
- <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="25"/>
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a> 
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a> 
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a> 
-</div>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,bash,python,cpp,cmake,express,flask,git,github,linux,md,mongodb,replit,vscode)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://github.com/Swag666baby">
