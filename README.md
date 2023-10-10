@@ -1,16 +1,17 @@
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swag666baby&theme=transparent" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swag666baby&hide_border=true&card_width=338&theme=transparent" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Swag666baby&theme=transparent" />
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05F2F2&height=120&section=header"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Swag666baby&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=00bfbf&text_color=FFFFFF&bg_color=0d1117" alt="Swag666baby GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swag666baby&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+</div>
 
 <details>
   I am currently developing:
-    • nexa, a robot with hundreds of commands - typescript
-    • task manager, self-explanatory, it will record your tasks with day, time, location, a description and of course, a title - typescript
-    • sleeper-db, a database manager, like mongoose, but local - typescript
-
   
+  •👾 nexa, a robot with hundreds of commands
+  
+  •📃 task manager, self-explanatory, it will record your tasks with day, time, location, a description and of course, a title
+  
+  •📂 sleeper-db, a database manager, like mongoose, but local
   
 </details>
 
