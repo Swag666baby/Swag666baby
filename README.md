@@ -7,16 +7,12 @@
 <details>
   I am currently developing:
   
-  •👾 nexa, a robot with hundreds of commands
-  
-  •📃 task manager, self-explanatory, it will record your tasks with day, time, location, a description and of course, a title
-  
   •📂 sleeper-db, a database manager, like mongoose, but local
   
 </details>
 
 ## Technologies Badges
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,bash,python,cpp,cmake,express,flask,git,github,linux,md,mongodb,replit,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,python,crystal,cpp,bash,cmake,express,flask,git,github,linux,md,mongodb,replit,vscode)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://github.com/Swag666baby">
